@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/su/Project/build",
+            "binaryPath": "/home/su/Project/build/Project.elf",
+            "binaryArgs": []
+        }
+    ]
+}
