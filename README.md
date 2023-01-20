@@ -1,2 +1,2 @@
 # STM32-Makefile-template
-## Request:  arm-none-eabi-gcc  make  openocd STM32CubeMX 
+## Request:  arm-none-eabi-gcc openocd STM32CubeMX 
