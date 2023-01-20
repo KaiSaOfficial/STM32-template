@@ -1,0 +1,6 @@
+/zephyr
+/.idea
+/.xmake
+build
+xmake-build
+cmake-build-debug

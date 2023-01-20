@@ -7,7 +7,7 @@
   ******************************************************************************
   * @attention
   *
-  * Copyright (c) 2023 STMicroelectronics.
+  * Copyright (c) 2022 STMicroelectronics.
   * All rights reserved.
   *
   * This software is licensed under terms that can be found in the LICENSE file
@@ -57,8 +57,8 @@ void Error_Handler(void);
 /* USER CODE END EFP */
 
 /* Private defines -----------------------------------------------------------*/
-#define LED_Pin GPIO_PIN_0
-#define LED_GPIO_Port GPIOC
+#define GPO_LED0_Pin GPIO_PIN_0
+#define GPO_LED0_GPIO_Port GPIOC
 /* USER CODE BEGIN Private defines */
 
 /* USER CODE END Private defines */
